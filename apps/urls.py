@@ -1,7 +1,6 @@
-from django.urls import path
-
-from apps.views import ProductListCreateAPIView
+from django.urls import path, include
 
 urlpatterns = [
-    path('product/', ProductListCreateAPIView.as_view()),
+    path('ads/', include('ads.urls')),
+    path('users/', include('users.urls')),
 ]
