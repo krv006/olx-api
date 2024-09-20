@@ -18,9 +18,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     # apps
-
-
+    'apps.ads',
+    'apps.users',
+    'apps.shared',
 
     'mptt',
     'rest_framework',
@@ -58,7 +60,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'root.wsgi.application'
-# AUTH_USER_MODEL = 'apps.User'
+# AUTH_USER_MODEL = 'users.User'
 
 
 DATABASES = {
@@ -113,5 +115,5 @@ SPECTACULAR_SETTINGS = {
     'DESCRIPTION': 'Your project description',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
-    'COMPONENT_SPLIT_REQUEST': True,
+    'COMPONENT_SPLIT_REQUEST': True,  # todo for image
 }
