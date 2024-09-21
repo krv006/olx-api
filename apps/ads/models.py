@@ -4,7 +4,8 @@ from django.db.models import Model, CharField
 from django_ckeditor_5.fields import CKEditor5Field
 from mptt.fields import TreeForeignKey
 from mptt.models import MPTTModel
-from shared.django.model import BaseSlugModel
+
+from apps.shared.django.model import BaseSlugModel
 
 
 class Region(Model):
@@ -108,13 +109,3 @@ class ProductHistory(Model):
     product_name = CharField(max_length=255)
     price = IntegerField()
     deleted_at = DateTimeField(auto_now=True)
-
-
-# from django.db.models import Model, CharField
-#
-#
-# class Category(Model):
-#     name = CharField(max_length=255)
-#
-#     def __str__(self):
-#         return self.name
