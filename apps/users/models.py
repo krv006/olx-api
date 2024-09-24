@@ -1,4 +1,3 @@
-
 import uuid
 
 from django.contrib.auth.base_user import AbstractBaseUser
@@ -6,7 +5,11 @@ from django.contrib.auth.models import UserManager, PermissionsMixin
 from django.core.validators import FileExtensionValidator
 from django.db.models import BooleanField, CharField, UUIDField, DateTimeField, ImageField, TextChoices, Model, \
     ForeignKey, CASCADE, EmailField, FileField, DateField, TextField, OneToOneField
+
+from apps.users.filters import validate_file_size
+
 from django.utils import timezone
+
 
 # from users.filters import validate_file_size
 
@@ -50,14 +53,14 @@ class CandidateProfile(Model):
         CE = 'ce', 'CE'
         DE = 'de', 'DE'
 
-    # desired_job_title = CharField(max_length=255,
-    #                               help_text='Vergul bilan ajratib, tanlangan lavozimlarni kiriting. 15 tagacha qoʻshishingiz mumkin.',
-    #                               verbose_name='Istalgan lavozim nomi')
-    # desired_city = ForeignKey('ads.District', CASCADE, verbose_name='Istalgan hudud')
-    # cv = FileField(upload_to='user_cv/',
-    #                help_text="Siz shu formatlarda fayl yuklashingiz mumkin: pdf, doc, docx, odt. Maksimal o'lchami 4MB.",
-    #                validators=[FileExtensionValidator(allowed_extensions=['pdf', 'doc', 'docx', 'odt']),
-    #                            validate_file_size])
+    desired_job_title = CharField(max_length=255,
+                                  help_text='Vergul bilan ajratib, tanlangan lavozimlarni kiriting. 15 tagacha qoʻshishingiz mumkin.',
+                                  verbose_name='Istalgan lavozim nomi')
+    desired_city = ForeignKey('ads.District', CASCADE, verbose_name='Istalgan hudud')
+    cv = FileField(upload_to='user_cv/',
+                   help_text="Siz shu formatlarda fayl yuklashingiz mumkin: pdf, doc, docx, odt. Maksimal o'lchami 4MB.",
+                   validators=[FileExtensionValidator(allowed_extensions=['pdf', 'doc', 'docx', 'odt']),
+                               validate_file_size])
     owner = OneToOneField('users.User', CASCADE)
     first_name = CharField(max_length=50)
     last_name = CharField(max_length=50)

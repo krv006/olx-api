@@ -1,7 +1,7 @@
 from django.contrib.auth import authenticate
 from drf_spectacular.utils import extend_schema
 from jsonschema._format import is_email
-from rest_framework.generics import ListAPIView, GenericAPIView
+from rest_framework.generics import GenericAPIView, ListCreateAPIView
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
@@ -11,7 +11,7 @@ from apps.users.serializers import UserModelSerializer, UserLoginSerializer
 
 
 @extend_schema(tags=['user'])
-class UserListAPIView(ListAPIView):
+class UserListCreateAPIView(ListCreateAPIView):
     queryset = User.objects.all()
     serializer_class = UserModelSerializer
 

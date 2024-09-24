@@ -1,0 +1,1529 @@
+
+[
+  {
+    "model": "apps.ads.category",
+    "pk": 1,
+    "fields": {
+      "name": "Bolalar dunyosi",
+      "slug": "bolalar-dunyosi",
+      "image": "category/Screenshot_2024-08-14_at_02.29.49.png",
+      "parent": null,
+      "lft": 1,
+      "rght": 22,
+      "tree_id": 1,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 2,
+    "fields": {
+      "name": "Ko'chmas mulk",
+      "slug": "kochmas-mulk",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 14,
+      "tree_id": 2,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 3,
+    "fields": {
+      "name": "Transport",
+      "slug": "transport",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 30,
+      "tree_id": 3,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 4,
+    "fields": {
+      "name": "Ish",
+      "slug": "ish",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 4,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 5,
+    "fields": {
+      "name": "Hayvonlar",
+      "slug": "hayvonlar",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 24,
+      "tree_id": 5,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 6,
+    "fields": {
+      "name": "Uy va bog'",
+      "slug": "uy-va-bog",
+      "image": "category/Screenshot_2024-08-14_at_02.31.48.png",
+      "parent": null,
+      "lft": 1,
+      "rght": 26,
+      "tree_id": 6,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 7,
+    "fields": {
+      "name": "Elektr jihozlari",
+      "slug": "elektr-jihozlari",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 26,
+      "tree_id": 7,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 8,
+    "fields": {
+      "name": "Xizmatlar",
+      "slug": "xizmatlar",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 38,
+      "tree_id": 8,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 9,
+    "fields": {
+      "name": "Moda va stil",
+      "slug": "moda-va-stil",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 16,
+      "tree_id": 9,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 10,
+    "fields": {
+      "name": "Xobbi, dam olish sport",
+      "slug": "xobbi-dam-olish-sport",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 16,
+      "tree_id": 10,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 11,
+    "fields": {
+      "name": "Tekinga beraman",
+      "slug": "tekinga-beraman",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 11,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 12,
+    "fields": {
+      "name": "Ayirboshlash",
+      "slug": "ayirboshlash",
+      "image": "",
+      "parent": null,
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 12,
+      "level": 0
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 13,
+    "fields": {
+      "name": "Bolalar kiyimi",
+      "slug": "bolalar-kiyimi",
+      "image": "",
+      "parent": 1,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 14,
+    "fields": {
+      "name": "Bolalar mebeli",
+      "slug": "bolalar-mebeli",
+      "image": "",
+      "parent": 1,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 15,
+    "fields": {
+      "name": "Maktab o'quvchilari uchun mahsulotlar",
+      "slug": "maktab-oquvchilari-uchun-mahsulotlar",
+      "image": "",
+      "parent": 1,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 16,
+    "fields": {
+      "name": "Bolalar oyoq kiyimi",
+      "slug": "bolalar-oyoq-kiyimi",
+      "image": "",
+      "parent": 1,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 17,
+    "fields": {
+      "name": "O'yinchoqlar",
+      "slug": "oyinchoqlar",
+      "image": "",
+      "parent": 1,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 18,
+    "fields": {
+      "name": "Boshqa bolalar mahsulotlari",
+      "slug": "boshqa-bolalar-mahsulotlari",
+      "image": "",
+      "parent": 1,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 19,
+    "fields": {
+      "name": "Bolalar kolyaskalari",
+      "slug": "bolalar-kolyaskalari",
+      "image": "",
+      "parent": 1,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 20,
+    "fields": {
+      "name": "Bolalar transporti",
+      "slug": "bolalar-transporti",
+      "image": "",
+      "parent": 1,
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 21,
+    "fields": {
+      "name": "Bolalar avtoo'rindiqlari",
+      "slug": "bolalar-avtoorindiqlari",
+      "image": "",
+      "parent": 1,
+      "lft": 18,
+      "rght": 19,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 22,
+    "fields": {
+      "name": "Oziqlantirish",
+      "slug": "oziqlantirish",
+      "image": "",
+      "parent": 1,
+      "lft": 20,
+      "rght": 21,
+      "tree_id": 1,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 23,
+    "fields": {
+      "name": "Antikvar kolleksiyalar",
+      "slug": "antikvar-kolleksiyalar",
+      "image": "",
+      "parent": 10,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 24,
+    "fields": {
+      "name": "Kitoblar-jurnallar",
+      "slug": "kitoblar-jurnallar",
+      "image": "",
+      "parent": 10,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 25,
+    "fields": {
+      "name": "Musiqa anjomlari",
+      "slug": "musiqa-anjomlari",
+      "image": "",
+      "parent": 10,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 26,
+    "fields": {
+      "name": "Cd-dvd-plastinkalar, kassetalar",
+      "slug": "cd-dvd-plastinkalar-kassetalar",
+      "image": "",
+      "parent": 10,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 27,
+    "fields": {
+      "name": "Boshqalar",
+      "slug": "boshqalar",
+      "image": "",
+      "parent": 10,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 28,
+    "fields": {
+      "name": "Chiptalar",
+      "slug": "chiptalar",
+      "image": "",
+      "parent": 10,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 29,
+    "fields": {
+      "name": "Sport-dam olish",
+      "slug": "sport-dam-olish",
+      "image": "",
+      "parent": 10,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 10,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 30,
+    "fields": {
+      "name": "Kiyim-kechak",
+      "slug": "kiyim-kechak",
+      "image": "",
+      "parent": 9,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 31,
+    "fields": {
+      "name": "Aksessuarlar",
+      "slug": "aksessuarlar",
+      "image": "",
+      "parent": 9,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 32,
+    "fields": {
+      "name": "To'y uchun",
+      "slug": "toy-uchun",
+      "image": "",
+      "parent": 9,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 33,
+    "fields": {
+      "name": "Sovg'alar",
+      "slug": "sovgalar",
+      "image": "",
+      "parent": 9,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 34,
+    "fields": {
+      "name": "Moda, turli-tumanliklar",
+      "slug": "moda-turli-tumanliklar",
+      "image": "",
+      "parent": 9,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 35,
+    "fields": {
+      "name": "Go'zallik-salomatlik",
+      "slug": "gozallik-salomatlik",
+      "image": "",
+      "parent": 9,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 36,
+    "fields": {
+      "name": "Qo'l soatlari",
+      "slug": "qol-soatlari",
+      "image": "",
+      "parent": 9,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 9,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 37,
+    "fields": {
+      "name": "Qurilish-ta'mirlash-xona tozalash",
+      "slug": "qurilish-tamirlash-xona-tozalash",
+      "image": "",
+      "parent": 8,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 38,
+    "fields": {
+      "name": "Enagalar-kasalga qarovchilar",
+      "slug": "enagalar-kasalga-qarovchilar",
+      "image": "",
+      "parent": 8,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 39,
+    "fields": {
+      "name": "Ta'lim-sport",
+      "slug": "talim-sport",
+      "image": "",
+      "parent": 8,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 40,
+    "fields": {
+      "name": "Turizm",
+      "slug": "turizm",
+      "image": "",
+      "parent": 8,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 41,
+    "fields": {
+      "name": "Yuridik xizmatlar",
+      "slug": "yuridik-xizmatlar",
+      "image": "",
+      "parent": 8,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 42,
+    "fields": {
+      "name": "Xomashyo-materiallar",
+      "slug": "xomashyo-materiallar",
+      "image": "",
+      "parent": 8,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 43,
+    "fields": {
+      "name": "Hayvonlar uchun xizmatlar",
+      "slug": "hayvonlar-uchun-xizmatlar",
+      "image": "",
+      "parent": 8,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 44,
+    "fields": {
+      "name": "Tarjimonlar xizmatlari-matnlarni terish",
+      "slug": "tarjimonlar-xizmatlari-matnlarni-terish",
+      "image": "",
+      "parent": 8,
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 45,
+    "fields": {
+      "name": "Mahsulotlar prokati",
+      "slug": "mahsulotlar-prokati",
+      "image": "",
+      "parent": 8,
+      "lft": 18,
+      "rght": 19,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 46,
+    "fields": {
+      "name": "Tashishlar-transport ijarasi",
+      "slug": "tashishlar-transport-ijarasi",
+      "image": "",
+      "parent": 8,
+      "lft": 20,
+      "rght": 21,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 47,
+    "fields": {
+      "name": "Go'zallik-salomatlik",
+      "slug": "gozallik-salomatlikk",
+      "image": "",
+      "parent": 8,
+      "lft": 22,
+      "rght": 23,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 48,
+    "fields": {
+      "name": "Biznesni sotish",
+      "slug": "biznesni-sotish",
+      "image": "",
+      "parent": 8,
+      "lft": 24,
+      "rght": 25,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 49,
+    "fields": {
+      "name": "Avto-moto xizmatlar",
+      "slug": "avto-moto-xizmatlar",
+      "image": "",
+      "parent": 8,
+      "lft": 26,
+      "rght": 27,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 50,
+    "fields": {
+      "name": "Boshqa xizmatlar",
+      "slug": "boshqa-xizmatlar",
+      "image": "",
+      "parent": 8,
+      "lft": 28,
+      "rght": 29,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 51,
+    "fields": {
+      "name": "Reklama, poligrafiya, marketing, internet",
+      "slug": "reklama-poligrafiya-marketing-internet",
+      "image": "",
+      "parent": 8,
+      "lft": 30,
+      "rght": 31,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 52,
+    "fields": {
+      "name": "Qurilmalar",
+      "slug": "qurilmalar",
+      "image": "",
+      "parent": 8,
+      "lft": 32,
+      "rght": 33,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 53,
+    "fields": {
+      "name": "O'yinlar-san'at-foto-video",
+      "slug": "oyinlar-sanat-foto-video",
+      "image": "",
+      "parent": 8,
+      "lft": 34,
+      "rght": 35,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 54,
+    "fields": {
+      "name": "Texnikaga xizmat ko'rsatish, ta'mirlash",
+      "slug": "texnikaga-xizmat-korsatish-tamirlash",
+      "image": "",
+      "parent": 8,
+      "lft": 36,
+      "rght": 37,
+      "tree_id": 8,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 55,
+    "fields": {
+      "name": "Telefonlar",
+      "slug": "telefonlar",
+      "image": "",
+      "parent": 7,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 56,
+    "fields": {
+      "name": "Audiotexnika",
+      "slug": "audiotexnika",
+      "image": "",
+      "parent": 7,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 57,
+    "fields": {
+      "name": "Iqlim qurilmalari",
+      "slug": "iqlim-qurilmalari",
+      "image": "",
+      "parent": 7,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 58,
+    "fields": {
+      "name": "Kompyuterlar",
+      "slug": "kompyuterlar",
+      "image": "",
+      "parent": 7,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 59,
+    "fields": {
+      "name": "O'yinlar va o'yin anjomlari",
+      "slug": "oyinlar-va-oyin-anjomlari",
+      "image": "",
+      "parent": 7,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 60,
+    "fields": {
+      "name": "Yakka tartibdagi parvarish",
+      "slug": "yakka-tartibdagi-parvarish",
+      "image": "",
+      "parent": 7,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 61,
+    "fields": {
+      "name": "Foto/ video",
+      "slug": "foto-video",
+      "image": "",
+      "parent": 7,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 62,
+    "fields": {
+      "name": "Uy uchun texnika",
+      "slug": "uy-uchun-texnika",
+      "image": "",
+      "parent": 7,
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 63,
+    "fields": {
+      "name": "Aksessuarlar va komplekt jihozlar",
+      "slug": "aksessuarlar-va-komplekt-jihozlar",
+      "image": "",
+      "parent": 7,
+      "lft": 18,
+      "rght": 19,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 64,
+    "fields": {
+      "name": "Tv/ videotexnika",
+      "slug": "tv-videotexnika",
+      "image": "",
+      "parent": 7,
+      "lft": 20,
+      "rght": 21,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 65,
+    "fields": {
+      "name": "Oshxona uchun texnika",
+      "slug": "oshxona-uchun-texnika",
+      "image": "",
+      "parent": 7,
+      "lft": 22,
+      "rght": 23,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 66,
+    "fields": {
+      "name": "Boshqa elektronika",
+      "slug": "boshqa-elektronika",
+      "image": "",
+      "parent": 7,
+      "lft": 24,
+      "rght": 25,
+      "tree_id": 7,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 67,
+    "fields": {
+      "name": "Mebel",
+      "slug": "mebel",
+      "image": "",
+      "parent": 6,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 68,
+    "fields": {
+      "name": "Jihozlar",
+      "slug": "jihozlar",
+      "image": "",
+      "parent": 6,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 69,
+    "fields": {
+      "name": "Xo'jalik jihozlari, maishiy kimyo",
+      "slug": "xojalik-jihozlari-maishiy-kimyo",
+      "image": "",
+      "parent": 6,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 70,
+    "fields": {
+      "name": "Bog'-tomorqa",
+      "slug": "bog-tomorqa",
+      "image": "",
+      "parent": 6,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 71,
+    "fields": {
+      "name": "Xona o'simliklari",
+      "slug": "xona-osimliklari",
+      "image": "",
+      "parent": 6,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 72,
+    "fields": {
+      "name": "Kanstovarlar-chiqim materiallari",
+      "slug": "kanstovarlar-chiqim-materiallari",
+      "image": "",
+      "parent": 6,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 73,
+    "fields": {
+      "name": "Interyer jihozlari",
+      "slug": "interyer-jihozlari",
+      "image": "",
+      "parent": 6,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 74,
+    "fields": {
+      "name": "Idish-tovoq, oshxona anjomlari",
+      "slug": "idish-tovoq-oshxona-anjomlari",
+      "image": "",
+      "parent": 6,
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 75,
+    "fields": {
+      "name": "Oziq-ovqat / Ichimliklar",
+      "slug": "oziq-ovqat-Ichimliklar",
+      "image": "",
+      "parent": 6,
+      "lft": 18,
+      "rght": 19,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 76,
+    "fields": {
+      "name": "Qurilish/ta‘mirlash uchun tovarlar",
+      "slug": "qurilish-tamirlash-uchun-tovarlar",
+      "image": "",
+      "parent": 6,
+      "lft": 20,
+      "rght": 21,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 77,
+    "fields": {
+      "name": "Bog' anjomlari",
+      "slug": "bog-anjomlari",
+      "image": "",
+      "parent": 6,
+      "lft": 22,
+      "rght": 23,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 78,
+    "fields": {
+      "name": "Uy uchun boshqa mahsulotlar",
+      "slug": "uy-uchun-boshqa-mahsulotlar",
+      "image": "",
+      "parent": 6,
+      "lft": 24,
+      "rght": 25,
+      "tree_id": 6,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 79,
+    "fields": {
+      "name": "Itlar",
+      "slug": "itlar",
+      "image": "",
+      "parent": 5,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 80,
+    "fields": {
+      "name": "Kemiruvchilar",
+      "slug": "kemiruvchilar",
+      "image": "",
+      "parent": 5,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 81,
+    "fields": {
+      "name": "Topilmalar idorasi",
+      "slug": "topilmalar-idorasi",
+      "image": "",
+      "parent": 5,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 82,
+    "fields": {
+      "name": "Mushuklar",
+      "slug": "mushuklar",
+      "image": "",
+      "parent": 5,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 83,
+    "fields": {
+      "name": "Qishloq xo'jalik hayvonlari",
+      "slug": "qishloq-xojalik-hayvonlari",
+      "image": "",
+      "parent": 5,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 84,
+    "fields": {
+      "name": "Boshqa hayvonlar",
+      "slug": "boshqa-hayvonlar",
+      "image": "",
+      "parent": 5,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 85,
+    "fields": {
+      "name": "Akvarium baliqlari",
+      "slug": "akvarium-baliqlari",
+      "image": "",
+      "parent": 5,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 86,
+    "fields": {
+      "name": "Hayvonlar uchun mahsulotlar",
+      "slug": "hayvonlar-uchun-mahsulotlar",
+      "image": "",
+      "parent": 5,
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 87,
+    "fields": {
+      "name": "Tekinga hayvonlar",
+      "slug": "tekinga-hayvonlar",
+      "image": "",
+      "parent": 5,
+      "lft": 18,
+      "rght": 19,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 88,
+    "fields": {
+      "name": "Qushlar",
+      "slug": "qushlar",
+      "image": "",
+      "parent": 5,
+      "lft": 20,
+      "rght": 21,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 89,
+    "fields": {
+      "name": "To'qish",
+      "slug": "toqish",
+      "image": "",
+      "parent": 5,
+      "lft": 22,
+      "rght": 23,
+      "tree_id": 5,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 90,
+    "fields": {
+      "name": "Sutkalik ijarasi",
+      "slug": "sutkalik-ijarasi",
+      "image": "",
+      "parent": 2,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 2,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 91,
+    "fields": {
+      "name": "Garajlar / turargohlar",
+      "slug": "garajlar-turargohlar",
+      "image": "",
+      "parent": 2,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 2,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 92,
+    "fields": {
+      "name": "Kvartiralar",
+      "slug": "kvartiralar",
+      "image": "",
+      "parent": 2,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 2,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 93,
+    "fields": {
+      "name": "Tijorat binolari",
+      "slug": "tijorat-binolari",
+      "image": "",
+      "parent": 2,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 2,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 94,
+    "fields": {
+      "name": "Xususiy uylar",
+      "slug": "xususiy-uylar",
+      "image": "",
+      "parent": 2,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 2,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 95,
+    "fields": {
+      "name": "Yer uchastkasi",
+      "slug": "yer-uchastkasi",
+      "image": "",
+      "parent": 2,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 2,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 96,
+    "fields": {
+      "name": "Yengil avtomashinalar",
+      "slug": "yengil-avtomashinalar",
+      "image": "",
+      "parent": 3,
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 97,
+    "fields": {
+      "name": "Moto ehtiyot qismlari va aksessuarlar",
+      "slug": "moto-ehtiyot-qismlari-va-aksessuarlar",
+      "image": "",
+      "parent": 3,
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 98,
+    "fields": {
+      "name": "Tirkamalar",
+      "slug": "tirkamalar",
+      "image": "",
+      "parent": 3,
+      "lft": 6,
+      "rght": 7,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 99,
+    "fields": {
+      "name": "Suv transporti",
+      "slug": "suv-transporti",
+      "image": "",
+      "parent": 3,
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 100,
+    "fields": {
+      "name": "Avto ehtiyot qismlari va aksessuarlar",
+      "slug": "avto-ehtiyot-qismlari-va-aksessuarlar",
+      "image": "",
+      "parent": 3,
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 101,
+    "fields": {
+      "name": "Boshqa transport",
+      "slug": "boshqa-transport",
+      "image": "",
+      "parent": 3,
+      "lft": 12,
+      "rght": 13,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 102,
+    "fields": {
+      "name": "Maxsus texnika",
+      "slug": "maxsus-texnika",
+      "image": "",
+      "parent": 3,
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 103,
+    "fields": {
+      "name": "Boshqa ehtiyot qismlar",
+      "slug": "boshqa-ehtiyot-qismlar",
+      "image": "",
+      "parent": 3,
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 104,
+    "fields": {
+      "name": "Shinalar, disklar va g'ildiraklar",
+      "slug": "shinalar-disklar-va-gildiraklar",
+      "image": "",
+      "parent": 3,
+      "lft": 18,
+      "rght": 19,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 105,
+    "fields": {
+      "name": "Avtobuslar",
+      "slug": "avtobuslar",
+      "image": "",
+      "parent": 3,
+      "lft": 20,
+      "rght": 21,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 106,
+    "fields": {
+      "name": "Qishloq xo'jalik texnikasi",
+      "slug": "qishloq-xojalik-texnikasi",
+      "image": "",
+      "parent": 3,
+      "lft": 22,
+      "rght": 23,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 107,
+    "fields": {
+      "name": "Moto",
+      "slug": "Moto",
+      "image": "",
+      "parent": 3,
+      "lft": 24,
+      "rght": 25,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 108,
+    "fields": {
+      "name": "Yuk mashinalari",
+      "slug": "yuk-mashinalari",
+      "image": "",
+      "parent": 3,
+      "lft": 26,
+      "rght": 27,
+      "tree_id": 3,
+      "level": 1
+    }
+  },
+  {
+    "model": "apps.ads.category",
+    "pk": 109,
+    "fields": {
+      "name": "Maxsus texnika uchun qismlar",
+      "slug": "maxsus-texnika-uchun-qismlar",
+      "image": "",
+      "parent": 3,
+      "lft": 28,
+      "rght": 29,
+      "tree_id": 3,
+      "level": 1
+    }
+  }
+]
