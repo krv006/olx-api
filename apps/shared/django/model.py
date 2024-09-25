@@ -5,7 +5,7 @@ from django.utils.text import slugify
 class BaseSlugModel(Model):
     name = CharField(max_length=255)
     slug = SlugField(unique=True, blank=True)
-    created_at = DateTimeField(auto_now_add=True)
+    # created_at = DateTimeField(auto_now_add=True)
 
     class Meta:
         abstract = True

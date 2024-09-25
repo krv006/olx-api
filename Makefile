@@ -7,3 +7,7 @@ admin:
 
 elasticsearch:
 	docker run -d --name elasticsearch --net somenetwork -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" elasticsearch:tag
+
+loaddata:
+	python3 manage.py loaddata apps/ads/fixtures/region.json
+	python3 manage.py loaddata apps/ads/fixtures/district.json

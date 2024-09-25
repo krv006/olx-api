@@ -3,11 +3,11 @@ from rest_framework.routers import DefaultRouter
 
 from apps.ads.views import CategoryListAPIView, AdvertisementListAPIView, DistrictListAPIView, \
     FavoriteAdsListCreateAPIView, \
-    ChangePasswordUpdateAPIView, AdvertViewSet, RegionListCreateView
-
+    ChangePasswordUpdateAPIView, RegionListCreateView
+# from apps.ads.views import AdvertViewSet
 router = DefaultRouter()
 
-router.register('adverts', AdvertViewSet, 'adverts')
+# router.register('adverts', AdvertViewSet, 'adverts')
 urlpatterns = [
     path('', include(router.urls)),
     path('category/', CategoryListAPIView.as_view()),

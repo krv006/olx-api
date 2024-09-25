@@ -1,7 +1,7 @@
 
 [
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 1,
         "fields": {
             "name": "Amudaryo tumani",
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 2,
         "fields": {
             "name": "Beruniy tumani",
@@ -17,7 +17,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 3,
         "fields": {
             "name": "Chimboy tumani",
@@ -25,7 +25,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 4,
         "fields": {
             "name": "Ellikqal'a tumani",
@@ -33,7 +33,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 5,
         "fields": {
             "name": "Kegeyli tumani",
@@ -41,7 +41,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 6,
         "fields": {
             "name": "Mo'ynoq tumani",
@@ -49,7 +49,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 7,
         "fields": {
             "name": "Nukus tumani",
@@ -57,7 +57,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 8,
         "fields": {
             "name": "Qanliko'l tumani",
@@ -65,7 +65,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 9,
         "fields": {
             "name": "Qo'ng'irot tumani",
@@ -73,7 +73,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 10,
         "fields": {
             "name": "Qorao'zak tumani",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 11,
         "fields": {
             "name": "Shumanay tumani",
@@ -89,7 +89,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 12,
         "fields": {
             "name": "Taxtako'pir tumani",
@@ -97,7 +97,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 13,
         "fields": {
             "name": "To'rtko'l tumani",
@@ -105,7 +105,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 14,
         "fields": {
             "name": "Xo'jayli tumani",
@@ -113,7 +113,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 15,
         "fields": {
             "name": "Bog'ot tumani",
@@ -121,7 +121,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 16,
         "fields": {
             "name": "Gurlan tumani",
@@ -129,7 +129,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 17,
         "fields": {
             "name": "Xonqa tumani",
@@ -137,7 +137,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 18,
         "fields": {
             "name": "Hazorasp tumani",
@@ -145,7 +145,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 19,
         "fields": {
             "name": "Xiva tumani",
@@ -153,7 +153,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 20,
         "fields": {
             "name": "Qo'shko'pir tumani",
@@ -161,7 +161,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 21,
         "fields": {
             "name": "Shovot tumani",
@@ -169,7 +169,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 22,
         "fields": {
             "name": "Urganch tumani",
@@ -177,7 +177,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 23,
         "fields": {
             "name": "Yangiariq tumani",
@@ -185,7 +185,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 24,
         "fields": {
             "name": "Yangibozor tumani",
@@ -193,7 +193,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 25,
         "fields": {
             "name": "Tuproqqal'a tumani",
@@ -201,7 +201,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 26,
         "fields": {
             "name": "Konimex tumani",
@@ -209,7 +209,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 27,
         "fields": {
             "name": "Karmana tumani",
@@ -217,7 +217,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 28,
         "fields": {
             "name": "Qiziltepa tumani",
@@ -225,7 +225,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 29,
         "fields": {
             "name": "Xatircha tumani",
@@ -233,7 +233,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 30,
         "fields": {
             "name": "Navbahor tumani",
@@ -241,7 +241,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 31,
         "fields": {
             "name": "Nurota tumani",
@@ -249,7 +249,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 32,
         "fields": {
             "name": "Tomdi tumani",
@@ -257,7 +257,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 33,
         "fields": {
             "name": "Uchquruq tumani",
@@ -265,7 +265,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 34,
         "fields": {
             "name": "Olot tumani",
@@ -273,7 +273,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 35,
         "fields": {
             "name": "Buxoro tumani",
@@ -281,7 +281,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 36,
         "fields": {
             "name": "G'ijduvon tumani",
@@ -289,7 +289,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 37,
         "fields": {
             "name": "Jondor tumani",
@@ -297,7 +297,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 38,
         "fields": {
             "name": "Kogon tumani",
@@ -305,7 +305,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 39,
         "fields": {
             "name": "Qorako'l tumani",
@@ -313,7 +313,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 40,
         "fields": {
             "name": "Qorovulbozor tumani",
@@ -321,7 +321,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 41,
         "fields": {
             "name": "Peshku tumani",
@@ -329,7 +329,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 42,
         "fields": {
             "name": "Pomitan tumani",
@@ -337,7 +337,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 43,
         "fields": {
             "name": "Shofirkon tumani",
@@ -345,7 +345,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 44,
         "fields": {
             "name": "Vobkent tumani",
@@ -353,7 +353,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 45,
         "fields": {
             "name": "Bulung'ur tumani",
@@ -361,7 +361,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 46,
         "fields": {
             "name": "Ishtixon tumani",
@@ -369,7 +369,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 47,
         "fields": {
             "name": "Jomboy tumani",
@@ -377,7 +377,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 48,
         "fields": {
             "name": "Kattaqo'rg'on tumani",
@@ -385,7 +385,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 49,
         "fields": {
             "name": "Qo'shrabot tumani",
@@ -393,7 +393,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 50,
         "fields": {
             "name": "Narpay tumani",
@@ -401,7 +401,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 51,
         "fields": {
             "name": "Nurobot tumani",
@@ -409,7 +409,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 52,
         "fields": {
             "name": "Oqdaryo tumani",
@@ -417,7 +417,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 53,
         "fields": {
             "name": "Paxtachi tumani",
@@ -425,7 +425,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 54,
         "fields": {
             "name": "Payariq tumani",
@@ -433,7 +433,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 55,
         "fields": {
             "name": "Pastdarg'om tumani",
@@ -441,7 +441,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 56,
         "fields": {
             "name": "Samarqand tumani",
@@ -449,7 +449,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 57,
         "fields": {
             "name": "Toyloq tumani",
@@ -457,7 +457,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 58,
         "fields": {
             "name": "Urgut tumani",
@@ -465,7 +465,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 59,
         "fields": {
             "name": "Chiroqchi tumani",
@@ -473,7 +473,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 60,
         "fields": {
             "name": "Dehqonobod tumani",
@@ -481,7 +481,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 61,
         "fields": {
             "name": "G'uzor tumani",
@@ -489,7 +489,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 62,
         "fields": {
             "name": "Qamashi tumani",
@@ -497,7 +497,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 63,
         "fields": {
             "name": "Qarshi tumani",
@@ -505,7 +505,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 64,
         "fields": {
             "name": "Koson tumani",
@@ -513,7 +513,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 65,
         "fields": {
             "name": "Kasbi tumani",
@@ -521,7 +521,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 66,
         "fields": {
             "name": "Kitob tumani",
@@ -529,7 +529,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 67,
         "fields": {
             "name": "Mirishkor tumani",
@@ -537,7 +537,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 68,
         "fields": {
             "name": "Muborak tumani",
@@ -545,7 +545,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 69,
         "fields": {
             "name": "Nishon tumani",
@@ -553,7 +553,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 70,
         "fields": {
             "name": "Shahrisabz tumani",
@@ -561,7 +561,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 71,
         "fields": {
             "name": "Yakkabog' tumani",
@@ -569,7 +569,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 72,
         "fields": {
             "name": "Angor tumani",
@@ -577,7 +577,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 73,
         "fields": {
             "name": "Boysun tumani",
@@ -585,7 +585,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 74,
         "fields": {
             "name": "Denov tumani",
@@ -593,7 +593,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 75,
         "fields": {
             "name": "Jarqo'rg'on tumani",
@@ -601,7 +601,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 76,
         "fields": {
             "name": "Qiziriq tumani",
@@ -609,7 +609,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 77,
         "fields": {
             "name": "Qumqo'rg'on tumani",
@@ -617,7 +617,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 78,
         "fields": {
             "name": "Muzrabot tumani",
@@ -625,7 +625,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 79,
         "fields": {
             "name": "Oltinsoy tumani",
@@ -633,7 +633,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 80,
         "fields": {
             "name": "Sariosiyo tumani",
@@ -641,7 +641,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 81,
         "fields": {
             "name": "Sherobod tumani",
@@ -649,7 +649,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 82,
         "fields": {
             "name": "Sho'rchi tumani",
@@ -657,7 +657,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 83,
         "fields": {
             "name": "Termiz tumani",
@@ -665,7 +665,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 84,
         "fields": {
             "name": "Uzun tumani",
@@ -673,7 +673,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 85,
         "fields": {
             "name": "Arnasoy tumani",
@@ -681,7 +681,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 86,
         "fields": {
             "name": "Baxmal tumani",
@@ -689,7 +689,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 87,
         "fields": {
             "name": "Do'stlik tumani",
@@ -697,7 +697,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 88,
         "fields": {
             "name": "Forish tumani",
@@ -705,7 +705,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 89,
         "fields": {
             "name": "G'allaorol tumani",
@@ -713,7 +713,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 90,
         "fields": {
             "name": "Sharof Rashidov tumani",
@@ -721,7 +721,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 91,
         "fields": {
             "name": "Mirzacho'l tumani",
@@ -729,7 +729,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 92,
         "fields": {
             "name": "Paxtakor tumani",
@@ -737,7 +737,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 93,
         "fields": {
             "name": "Yangiobod tumani",
@@ -745,7 +745,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 94,
         "fields": {
             "name": "Zomin tumani",
@@ -753,7 +753,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 95,
         "fields": {
             "name": "Zafarobod tumani",
@@ -761,7 +761,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 96,
         "fields": {
             "name": "Zarbdor tumani",
@@ -769,7 +769,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 97,
         "fields": {
             "name": "Oqoltin tumani",
@@ -777,7 +777,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 98,
         "fields": {
             "name": "Boyovut tumani",
@@ -785,7 +785,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 99,
         "fields": {
             "name": "Guliston tumani",
@@ -793,7 +793,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 100,
         "fields": {
             "name": "Xovos tumani",
@@ -801,7 +801,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 101,
         "fields": {
             "name": "Mirzaobod tumani",
@@ -809,7 +809,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 102,
         "fields": {
             "name": "Sayxunobod tumani",
@@ -817,7 +817,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 103,
         "fields": {
             "name": "Sardoba tumani",
@@ -825,7 +825,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 104,
         "fields": {
             "name": "Sirdaryo tumani",
@@ -833,7 +833,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 105,
         "fields": {
             "name": "Bekobod tumani",
@@ -841,7 +841,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 106,
         "fields": {
             "name": "Bo'tonliq tumani",
@@ -849,7 +849,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 107,
         "fields": {
             "name": "Bo'ka tumani",
@@ -857,7 +857,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 108,
         "fields": {
             "name": "Chinoz tumani",
@@ -865,7 +865,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 109,
         "fields": {
             "name": "Qibray tumani",
@@ -873,7 +873,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 110,
         "fields": {
             "name": "Ohangaron tumani",
@@ -881,7 +881,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 111,
         "fields": {
             "name": "Oqqo'rg'on tumani",
@@ -889,7 +889,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 112,
         "fields": {
             "name": "Parkent tumani",
@@ -897,7 +897,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 113,
         "fields": {
             "name": "Piskent tumani",
@@ -905,7 +905,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 114,
         "fields": {
             "name": "Quyi chirchiq tumani",
@@ -913,7 +913,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 115,
         "fields": {
             "name": "O'rta chirchiq tumani",
@@ -921,7 +921,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 116,
         "fields": {
             "name": "Yangiyo'l tumani",
@@ -929,7 +929,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 117,
         "fields": {
             "name": "Yuqori chirchiq tumani",
@@ -937,7 +937,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 118,
         "fields": {
             "name": "Zangiorta tumani",
@@ -945,7 +945,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 119,
         "fields": {
             "name": "Chortoq tumani",
@@ -953,7 +953,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 120,
         "fields": {
             "name": "Chust tumani",
@@ -961,7 +961,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 121,
         "fields": {
             "name": "Kosonsoy tumani",
@@ -969,7 +969,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 122,
         "fields": {
             "name": "Mingbuloq tumani",
@@ -977,7 +977,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 123,
         "fields": {
             "name": "Namangan tumani",
@@ -985,7 +985,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 124,
         "fields": {
             "name": "Norin tumani (Ozbekiston)",
@@ -993,7 +993,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 125,
         "fields": {
             "name": "Pop tumani",
@@ -1001,7 +1001,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 126,
         "fields": {
             "name": "To'raqo'rg'on tumani",
@@ -1009,7 +1009,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 127,
         "fields": {
             "name": "Uchqo'rg'on tumani",
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 128,
         "fields": {
             "name": "Uychi tumani",
@@ -1025,7 +1025,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 129,
         "fields": {
             "name": "Yangiqo'rg'on tumani",
@@ -1033,7 +1033,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 130,
         "fields": {
             "name": "Oltiariq tumani",
@@ -1041,7 +1041,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 131,
         "fields": {
             "name": "Bag'dod tumani",
@@ -1049,7 +1049,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 132,
         "fields": {
             "name": "Beshariq tumani",
@@ -1057,7 +1057,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 133,
         "fields": {
             "name": "Buvayda tumani",
@@ -1065,7 +1065,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 134,
         "fields": {
             "name": "Dang'ara tumani",
@@ -1073,7 +1073,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 135,
         "fields": {
             "name": "Farg'ona tumani",
@@ -1081,7 +1081,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 136,
         "fields": {
             "name": "Furqat tumani",
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 137,
         "fields": {
             "name": "Qo'shtepa tumani",
@@ -1097,7 +1097,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 138,
         "fields": {
             "name": "Quva tumani",
@@ -1105,7 +1105,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 139,
         "fields": {
             "name": "Rishton tumani",
@@ -1113,7 +1113,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 140,
         "fields": {
             "name": "So'x tumani",
@@ -1121,7 +1121,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 141,
         "fields": {
             "name": "Toshloq tumani",
@@ -1129,7 +1129,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 142,
         "fields": {
             "name": "Uchko'prik tumani",
@@ -1137,7 +1137,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 143,
         "fields": {
             "name": "O'zbekiston tumani",
@@ -1145,7 +1145,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 144,
         "fields": {
             "name": "Yozyovon tumani",
@@ -1153,7 +1153,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 145,
         "fields": {
             "name": "Quvasoy tumani",
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 146,
         "fields": {
             "name": "Andijon tumani",
@@ -1169,7 +1169,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 147,
         "fields": {
             "name": "Asaka tumani",
@@ -1177,7 +1177,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 148,
         "fields": {
             "name": "Baliqchi tumani",
@@ -1185,7 +1185,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 149,
         "fields": {
             "name": "Bo'z tumani",
@@ -1193,7 +1193,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 150,
         "fields": {
             "name": "Buloqboshi tumani",
@@ -1201,7 +1201,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 151,
         "fields": {
             "name": "Izboskan tumani",
@@ -1209,7 +1209,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 152,
         "fields": {
             "name": "Jalaquduq tumani",
@@ -1217,7 +1217,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 153,
         "fields": {
             "name": "Xo'laobod tumani",
@@ -1225,7 +1225,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 154,
         "fields": {
             "name": "Qo'rg'ontepa tumani",
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 155,
         "fields": {
             "name": "Marhamat tumani",
@@ -1241,7 +1241,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 156,
         "fields": {
             "name": "Oltinko'l tumani",
@@ -1249,7 +1249,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 157,
         "fields": {
             "name": "Paxtaobod tumani",
@@ -1257,7 +1257,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 158,
         "fields": {
             "name": "Shahrixon tumani",
@@ -1265,7 +1265,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 159,
         "fields": {
             "name": "Ulug'nor tumani",
@@ -1273,7 +1273,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 160,
         "fields": {
             "name": "Bektemir tumani",
@@ -1281,7 +1281,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 161,
         "fields": {
             "name": "Chilonzor tumani",
@@ -1289,7 +1289,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 162,
         "fields": {
             "name": "Hamza tumani",
@@ -1297,7 +1297,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 163,
         "fields": {
             "name": "Mirobod tumani",
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 164,
         "fields": {
             "name": "Mirzi Ulug'bek tumani",
@@ -1313,7 +1313,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 165,
         "fields": {
             "name": "Sergili tumani",
@@ -1321,7 +1321,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 166,
         "fields": {
             "name": "Shayhontohur tumani",
@@ -1329,7 +1329,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 167,
         "fields": {
             "name": "Olmazor tumani",
@@ -1337,7 +1337,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 168,
         "fields": {
             "name": "Uchtepa tumani",
@@ -1345,7 +1345,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 169,
         "fields": {
             "name": "Yakkasaroy tumani",
@@ -1353,7 +1353,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 170,
         "fields": {
             "name": "Yunusobod tumani",
@@ -1361,7 +1361,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 171,
         "fields": {
             "name": "Andijon shahar",
@@ -1369,7 +1369,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 172,
         "fields": {
             "name": "Farg'ona shahar",
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 173,
         "fields": {
             "name": "Namangan shahar",
@@ -1385,7 +1385,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 174,
         "fields": {
             "name": "Sirdaryo shahar",
@@ -1393,7 +1393,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 175,
         "fields": {
             "name": "Jizzax shahar",
@@ -1401,7 +1401,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 176,
         "fields": {
             "name": "Surxondaryo shahar",
@@ -1409,7 +1409,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 177,
         "fields": {
             "name": "Qashqadaryo shahar",
@@ -1417,7 +1417,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 178,
         "fields": {
             "name": "Samarqand shahar",
@@ -1425,7 +1425,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 179,
         "fields": {
             "name": "Buxoro shahar",
@@ -1433,7 +1433,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 180,
         "fields": {
             "name": "Navoiy  shahar",
@@ -1441,7 +1441,7 @@
         }
     },
     {
-        "model": "apps.ads.District",
+        "model": "ads.District",
         "pk": 181,
         "fields": {
             "name": "Xorazm shahar",

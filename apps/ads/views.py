@@ -24,7 +24,7 @@ class CategoryListAPIView(ListAPIView):
     serializer_class = CategoryModelSerializer
 
 
-@extend_schema(tags=['ad'])
+@extend_schema(tags=['advert'])
 class AdvertisementListAPIView(ListAPIView):
     queryset = Advert.objects.all()
     serializer_class = AdvertisementModelSerializer
@@ -104,9 +104,9 @@ pbkdf2_sha256$870000$7N6kpXrfQXjkf7BpQfUxcd$/rd76oQfkhEEDf0rYiux8sTlaAQvB7b17Khn
 '''
 
 
-@extend_schema(tags=['addvert'])
-class AdvertViewSet(ModelViewSet):
-    queryset = Advert.objects.all()
-    serializer_class = AdvertSerializer
-    filter_backends = [SearchFilter, DjangoFilterBackend]
-    search_fields = 'name', 'description',
+# @extend_schema(tags=['advert']) # reklama
+# class AdvertViewSet(ModelViewSet):
+#     queryset = Advert.objects.all()
+#     serializer_class = AdvertSerializer
+#     filter_backends = [SearchFilter, DjangoFilterBackend]
+#     search_fields = 'name', 'description',

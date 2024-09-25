@@ -23,10 +23,10 @@ class AdvertisementModelSerializer(ModelSerializer):
         fields = 'id', 'name', 'price', 'created_at', 'city'
         read_only_fields = 'slug',
 
-    # def to_representation(self, instance):
-    #     repr = super().to_representation(instance)
-    #     # repr['image'] = AdvertisementImageSerializer(instance.advert.images.all(), many=True).data
-    #     return repr
+    def to_representation(self, instance):
+        repr = super().to_representation(instance)
+        repr['image'] = AdvertisementImageSerializer(instance.advert.images.all(), many=True).data
+        return repr
 
 
 class RegionModelSerializer(ModelSerializer):

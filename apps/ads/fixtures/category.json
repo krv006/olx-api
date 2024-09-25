@@ -1,7 +1,7 @@
 
 [
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 1,
     "fields": {
       "name": "Bolalar dunyosi",
@@ -15,7 +15,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 2,
     "fields": {
       "name": "Ko'chmas mulk",
@@ -29,7 +29,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 3,
     "fields": {
       "name": "Transport",
@@ -43,7 +43,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 4,
     "fields": {
       "name": "Ish",
@@ -57,7 +57,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 5,
     "fields": {
       "name": "Hayvonlar",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 6,
     "fields": {
       "name": "Uy va bog'",
@@ -85,7 +85,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 7,
     "fields": {
       "name": "Elektr jihozlari",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 8,
     "fields": {
       "name": "Xizmatlar",
@@ -113,7 +113,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 9,
     "fields": {
       "name": "Moda va stil",
@@ -127,7 +127,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 10,
     "fields": {
       "name": "Xobbi, dam olish sport",
@@ -141,7 +141,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 11,
     "fields": {
       "name": "Tekinga beraman",
@@ -155,7 +155,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 12,
     "fields": {
       "name": "Ayirboshlash",
@@ -169,7 +169,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 13,
     "fields": {
       "name": "Bolalar kiyimi",
@@ -183,7 +183,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 14,
     "fields": {
       "name": "Bolalar mebeli",
@@ -197,7 +197,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 15,
     "fields": {
       "name": "Maktab o'quvchilari uchun mahsulotlar",
@@ -211,7 +211,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 16,
     "fields": {
       "name": "Bolalar oyoq kiyimi",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 17,
     "fields": {
       "name": "O'yinchoqlar",
@@ -239,7 +239,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 18,
     "fields": {
       "name": "Boshqa bolalar mahsulotlari",
@@ -253,7 +253,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 19,
     "fields": {
       "name": "Bolalar kolyaskalari",
@@ -267,7 +267,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 20,
     "fields": {
       "name": "Bolalar transporti",
@@ -281,7 +281,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 21,
     "fields": {
       "name": "Bolalar avtoo'rindiqlari",
@@ -295,7 +295,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 22,
     "fields": {
       "name": "Oziqlantirish",
@@ -309,7 +309,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 23,
     "fields": {
       "name": "Antikvar kolleksiyalar",
@@ -323,7 +323,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 24,
     "fields": {
       "name": "Kitoblar-jurnallar",
@@ -337,7 +337,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 25,
     "fields": {
       "name": "Musiqa anjomlari",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 26,
     "fields": {
       "name": "Cd-dvd-plastinkalar, kassetalar",
@@ -365,7 +365,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 27,
     "fields": {
       "name": "Boshqalar",
@@ -379,7 +379,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 28,
     "fields": {
       "name": "Chiptalar",
@@ -393,7 +393,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 29,
     "fields": {
       "name": "Sport-dam olish",
@@ -407,7 +407,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 30,
     "fields": {
       "name": "Kiyim-kechak",
@@ -421,7 +421,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 31,
     "fields": {
       "name": "Aksessuarlar",
@@ -435,7 +435,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 32,
     "fields": {
       "name": "To'y uchun",
@@ -449,7 +449,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 33,
     "fields": {
       "name": "Sovg'alar",
@@ -463,7 +463,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 34,
     "fields": {
       "name": "Moda, turli-tumanliklar",
@@ -477,7 +477,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 35,
     "fields": {
       "name": "Go'zallik-salomatlik",
@@ -491,7 +491,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 36,
     "fields": {
       "name": "Qo'l soatlari",
@@ -505,7 +505,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 37,
     "fields": {
       "name": "Qurilish-ta'mirlash-xona tozalash",
@@ -519,7 +519,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 38,
     "fields": {
       "name": "Enagalar-kasalga qarovchilar",
@@ -533,7 +533,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 39,
     "fields": {
       "name": "Ta'lim-sport",
@@ -547,7 +547,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 40,
     "fields": {
       "name": "Turizm",
@@ -561,7 +561,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 41,
     "fields": {
       "name": "Yuridik xizmatlar",
@@ -575,7 +575,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 42,
     "fields": {
       "name": "Xomashyo-materiallar",
@@ -589,7 +589,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 43,
     "fields": {
       "name": "Hayvonlar uchun xizmatlar",
@@ -603,7 +603,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 44,
     "fields": {
       "name": "Tarjimonlar xizmatlari-matnlarni terish",
@@ -617,7 +617,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 45,
     "fields": {
       "name": "Mahsulotlar prokati",
@@ -631,7 +631,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 46,
     "fields": {
       "name": "Tashishlar-transport ijarasi",
@@ -645,7 +645,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 47,
     "fields": {
       "name": "Go'zallik-salomatlik",
@@ -659,7 +659,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 48,
     "fields": {
       "name": "Biznesni sotish",
@@ -673,7 +673,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 49,
     "fields": {
       "name": "Avto-moto xizmatlar",
@@ -687,7 +687,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 50,
     "fields": {
       "name": "Boshqa xizmatlar",
@@ -701,7 +701,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 51,
     "fields": {
       "name": "Reklama, poligrafiya, marketing, internet",
@@ -715,7 +715,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 52,
     "fields": {
       "name": "Qurilmalar",
@@ -729,7 +729,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 53,
     "fields": {
       "name": "O'yinlar-san'at-foto-video",
@@ -743,7 +743,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 54,
     "fields": {
       "name": "Texnikaga xizmat ko'rsatish, ta'mirlash",
@@ -757,7 +757,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 55,
     "fields": {
       "name": "Telefonlar",
@@ -771,7 +771,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 56,
     "fields": {
       "name": "Audiotexnika",
@@ -785,7 +785,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 57,
     "fields": {
       "name": "Iqlim qurilmalari",
@@ -799,7 +799,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 58,
     "fields": {
       "name": "Kompyuterlar",
@@ -813,7 +813,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 59,
     "fields": {
       "name": "O'yinlar va o'yin anjomlari",
@@ -827,7 +827,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 60,
     "fields": {
       "name": "Yakka tartibdagi parvarish",
@@ -841,7 +841,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 61,
     "fields": {
       "name": "Foto/ video",
@@ -855,7 +855,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 62,
     "fields": {
       "name": "Uy uchun texnika",
@@ -869,7 +869,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 63,
     "fields": {
       "name": "Aksessuarlar va komplekt jihozlar",
@@ -883,7 +883,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 64,
     "fields": {
       "name": "Tv/ videotexnika",
@@ -897,7 +897,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 65,
     "fields": {
       "name": "Oshxona uchun texnika",
@@ -911,7 +911,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 66,
     "fields": {
       "name": "Boshqa elektronika",
@@ -925,7 +925,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 67,
     "fields": {
       "name": "Mebel",
@@ -939,7 +939,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 68,
     "fields": {
       "name": "Jihozlar",
@@ -953,7 +953,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 69,
     "fields": {
       "name": "Xo'jalik jihozlari, maishiy kimyo",
@@ -967,7 +967,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 70,
     "fields": {
       "name": "Bog'-tomorqa",
@@ -981,7 +981,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 71,
     "fields": {
       "name": "Xona o'simliklari",
@@ -995,7 +995,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 72,
     "fields": {
       "name": "Kanstovarlar-chiqim materiallari",
@@ -1009,7 +1009,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 73,
     "fields": {
       "name": "Interyer jihozlari",
@@ -1023,7 +1023,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 74,
     "fields": {
       "name": "Idish-tovoq, oshxona anjomlari",
@@ -1037,7 +1037,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 75,
     "fields": {
       "name": "Oziq-ovqat / Ichimliklar",
@@ -1051,7 +1051,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 76,
     "fields": {
       "name": "Qurilish/ta‘mirlash uchun tovarlar",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 77,
     "fields": {
       "name": "Bog' anjomlari",
@@ -1079,7 +1079,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 78,
     "fields": {
       "name": "Uy uchun boshqa mahsulotlar",
@@ -1093,7 +1093,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 79,
     "fields": {
       "name": "Itlar",
@@ -1107,7 +1107,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 80,
     "fields": {
       "name": "Kemiruvchilar",
@@ -1121,7 +1121,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 81,
     "fields": {
       "name": "Topilmalar idorasi",
@@ -1135,7 +1135,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 82,
     "fields": {
       "name": "Mushuklar",
@@ -1149,7 +1149,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 83,
     "fields": {
       "name": "Qishloq xo'jalik hayvonlari",
@@ -1163,7 +1163,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 84,
     "fields": {
       "name": "Boshqa hayvonlar",
@@ -1177,7 +1177,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 85,
     "fields": {
       "name": "Akvarium baliqlari",
@@ -1191,7 +1191,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 86,
     "fields": {
       "name": "Hayvonlar uchun mahsulotlar",
@@ -1205,7 +1205,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 87,
     "fields": {
       "name": "Tekinga hayvonlar",
@@ -1219,7 +1219,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 88,
     "fields": {
       "name": "Qushlar",
@@ -1233,7 +1233,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 89,
     "fields": {
       "name": "To'qish",
@@ -1247,7 +1247,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 90,
     "fields": {
       "name": "Sutkalik ijarasi",
@@ -1261,7 +1261,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 91,
     "fields": {
       "name": "Garajlar / turargohlar",
@@ -1275,7 +1275,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 92,
     "fields": {
       "name": "Kvartiralar",
@@ -1289,7 +1289,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 93,
     "fields": {
       "name": "Tijorat binolari",
@@ -1303,7 +1303,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 94,
     "fields": {
       "name": "Xususiy uylar",
@@ -1317,7 +1317,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 95,
     "fields": {
       "name": "Yer uchastkasi",
@@ -1331,7 +1331,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 96,
     "fields": {
       "name": "Yengil avtomashinalar",
@@ -1345,7 +1345,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 97,
     "fields": {
       "name": "Moto ehtiyot qismlari va aksessuarlar",
@@ -1359,7 +1359,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 98,
     "fields": {
       "name": "Tirkamalar",
@@ -1373,7 +1373,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 99,
     "fields": {
       "name": "Suv transporti",
@@ -1387,7 +1387,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 100,
     "fields": {
       "name": "Avto ehtiyot qismlari va aksessuarlar",
@@ -1401,7 +1401,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 101,
     "fields": {
       "name": "Boshqa transport",
@@ -1415,7 +1415,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 102,
     "fields": {
       "name": "Maxsus texnika",
@@ -1429,7 +1429,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 103,
     "fields": {
       "name": "Boshqa ehtiyot qismlar",
@@ -1443,7 +1443,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 104,
     "fields": {
       "name": "Shinalar, disklar va g'ildiraklar",
@@ -1457,7 +1457,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 105,
     "fields": {
       "name": "Avtobuslar",
@@ -1471,7 +1471,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 106,
     "fields": {
       "name": "Qishloq xo'jalik texnikasi",
@@ -1485,7 +1485,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 107,
     "fields": {
       "name": "Moto",
@@ -1499,7 +1499,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 108,
     "fields": {
       "name": "Yuk mashinalari",
@@ -1513,7 +1513,7 @@
     }
   },
   {
-    "model": "apps.ads.category",
+    "model": "ads.category",
     "pk": 109,
     "fields": {
       "name": "Maxsus texnika uchun qismlar",
