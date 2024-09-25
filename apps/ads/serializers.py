@@ -1,4 +1,4 @@
-from django_elasticsearch_dsl_drf.serializers import DocumentSerializer
+# from django_elasticsearch_dsl_drf.serializers import DocumentSerializer
 from rest_framework.fields import IntegerField, CharField
 from rest_framework.serializers import ModelSerializer
 
@@ -100,7 +100,7 @@ class ChangeUserPasswordModelSerializer(ModelSerializer):
     #     return value
 
 
-
-class AdvertDocumentSerializer(DocumentSerializer):
+class AdvertSerializer(ModelSerializer):
     class Meta:
-        fields = 'name', 'description'
+        model = Advert
+        fields = ['name', 'description']

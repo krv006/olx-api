@@ -1,6 +1,7 @@
+# from django_elasticsearch_dsl_drf.filter_backends import SuggesterFilterBackend
+# from django_elasticsearch_dsl_drf.viewsets import DocumentViewSet
+from rest_framework.viewsets import ModelViewSet
 
-from django_elasticsearch_dsl_drf.filter_backends import SuggesterFilterBackend
-from django_elasticsearch_dsl_drf.viewsets import DocumentViewSet
 from django_filters.rest_framework import DjangoFilterBackend
 from drf_spectacular.utils import extend_schema
 from rest_framework import status
@@ -9,12 +10,11 @@ from rest_framework.generics import ListAPIView, ListCreateAPIView, UpdateAPIVie
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 
-from apps.ads.document import AdvertDocument
 from apps.ads.filters import AdsFilterSet
-from apps.ads.models import Category, Advert, District, FavoriteAdvertisement
+from apps.ads.models import Category, Advert, District, FavoriteAdvertisement, Region
 from apps.ads.pagination import LargeResultsSetPagination
 from apps.ads.serializers import CategoryModelSerializer, AdvertisementModelSerializer, DistrictModelSerializer, \
-    FavoriteAdsModelSerializer, ChangeUserPasswordModelSerializer, AdvertDocumentSerializer
+    FavoriteAdsModelSerializer, ChangeUserPasswordModelSerializer, AdvertSerializer, RegionModelSerializer
 from apps.users.models import User
 
 
@@ -42,6 +42,14 @@ class DistrictListAPIView(ListAPIView):
     serializer_class = DistrictModelSerializer
     filter_backends = DjangoFilterBackend, SearchFilter
     search_fields = 'name', 'region__name'
+
+
+@extend_schema(tags=['region'])
+class RegionListCreateView(ListAPIView):
+    queryset = Region.objects.all()
+    serializer_class = RegionModelSerializer
+    filter_backends = DjangoFilterBackend, SearchFilter
+    search_fields = 'name'
 
 
 @extend_schema(tags=['favorite_ads'])
@@ -89,13 +97,16 @@ class ChangePasswordUpdateAPIView(UpdateAPIView):
 
 
 '''
+
 pbkdf2_sha256$870000$bNKoEN3Rptr5gJ9GADttad$PyhtirAJjfN2NQFA7/W3XJTr4S2DLbmV0aBBABLjelA=
 pbkdf2_sha256$870000$7N6kpXrfQXjkf7BpQfUxcd$/rd76oQfkhEEDf0rYiux8sTlaAQvB7b17KhnkC+QRzk=
+
 '''
 
 
-class AdvertDocumentView(DocumentViewSet):
-    document = AdvertDocument
-    serializer_class = AdvertDocumentSerializer
-    filter_backends = SearchFilter, SuggesterFilterBackend
-    search_fields = 'name', 'description'
+@extend_schema(tags=['addvert'])
+class AdvertViewSet(ModelViewSet):
+    queryset = Advert.objects.all()
+    serializer_class = AdvertSerializer
+    filter_backends = [SearchFilter, DjangoFilterBackend]
+    search_fields = 'name', 'description',
