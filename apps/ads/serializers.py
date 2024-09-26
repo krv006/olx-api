@@ -29,20 +29,20 @@ class AdvertisementModelSerializer(ModelSerializer):
         return repr
 
 
-class RegionModelSerializer(ModelSerializer):
-    class Meta:
-        model = Region
-        fields = 'id', 'name'
-
-
 class DistrictModelSerializer(ModelSerializer):
     class Meta:
         model = District
-        fields = 'id', 'name', 'region'
+        fields = 'id', 'name',
+
+
+class RegionModelSerializer(ModelSerializer):
+    class Meta:
+        model = Region
+        fields = 'id', 'name', 'district',
 
     def to_representation(self, instance):
         repr = super().to_representation(instance)
-        repr['region'] = RegionModelSerializer(instance.region).data
+        repr['district'] = DistrictModelSerializer(instance.district).data
         return repr
 
 

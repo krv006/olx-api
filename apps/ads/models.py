@@ -8,13 +8,13 @@ from mptt.models import MPTTModel
 from apps.shared.django.model import BaseSlugModel
 
 
-class Region(Model):
-    name = CharField(max_length=50)
-
-
 class District(Model):
     name = CharField(max_length=50)
-    region = ForeignKey('ads.Region', CASCADE)
+
+
+class Region(Model):
+    name = CharField(max_length=50)
+    district = ForeignKey('ads.District', CASCADE)
 
 
 class Category(BaseSlugModel, MPTTModel):

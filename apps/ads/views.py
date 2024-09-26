@@ -10,7 +10,7 @@ from rest_framework.generics import ListAPIView, ListCreateAPIView, UpdateAPIVie
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 
-from apps.ads.filters import AdsFilterSet
+from apps.ads.filters import AdsFilterSet, RegionFilter
 from apps.ads.models import Category, Advert, District, FavoriteAdvertisement, Region
 from apps.ads.pagination import LargeResultsSetPagination
 from apps.ads.serializers import CategoryModelSerializer, AdvertisementModelSerializer, DistrictModelSerializer, \
@@ -41,6 +41,7 @@ class DistrictListAPIView(ListAPIView):
     queryset = District.objects.all()
     serializer_class = DistrictModelSerializer
     filter_backends = DjangoFilterBackend, SearchFilter
+    # filterset_class = DistrictFilter
     search_fields = 'name', 'region__name'
 
 
@@ -49,6 +50,7 @@ class RegionListCreateView(ListAPIView):
     queryset = Region.objects.all()
     serializer_class = RegionModelSerializer
     filter_backends = DjangoFilterBackend, SearchFilter
+    filterset_class = RegionFilter
     search_fields = 'name'
 
 
