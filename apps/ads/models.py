@@ -16,10 +16,16 @@ class Region(Model):
     name = CharField(max_length=50)
     district = ForeignKey('ads.District', CASCADE)
 
+    def __str__(self):
+        return self.name
+
 
 class Category(BaseSlugModel, MPTTModel):
     image = ImageField(upload_to='category/', null=True, blank=True)
     parent = TreeForeignKey('self', CASCADE, null=True, blank=True, related_name='children')
+
+    def __str__(self):
+        return self.parent
 
 
 class ExtraFields(Model):
